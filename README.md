@@ -1,4 +1,4 @@
-# LBNIopenSIM.github.io
+# Welcome to openSIM
 Project website
 
-## Welcome
+
